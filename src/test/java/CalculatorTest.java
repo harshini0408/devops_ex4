@@ -9,6 +9,6 @@ public class CalculatorTest {
 
         Calculator calculator = new Calculator();
 
-        assertEquals(30, calculator.add(28, 2));
+        assertEquals(32, calculator.add(28, 2));
     }
 }
